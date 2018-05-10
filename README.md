@@ -35,3 +35,15 @@ The project involves individuals training on a virtual crash cart in a hospital 
 The project first teaches the basics of using Oculus rift controllers to the user in our environment. This is done in an interactive tutorial. He is taught grabbing, releasing, turning and moving around in the tutorial setting.
 
 We have built an immersive virtual reality learning environment for medical professionals to remember the locations of life saving equipment and medicines in a crash cart.
+
+
+
+Development Videos of our project over the perioud:
+
+Sprint 1: https://www.youtube.com/watch?v=e0afzGM03sE
+Sprint 2: https://www.youtube.com/watch?v=hGS1gkdt2fU
+Sprint 3: https://www.youtube.com/watch?v=UPNlNFsBb8c
+Sprint 4: https://www.youtube.com/watch?v=1zSI4qfFGos
+Sprint 5: https://www.youtube.com/watch?v=JQpm-i7apZU
+
+Quick View of our final Application: https://www.youtube.com/watch?v=GR8f889J1LA
