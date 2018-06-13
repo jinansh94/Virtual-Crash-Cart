@@ -1,5 +1,5 @@
 # Virtual-Crash-Cart
-OUR MISSION
+
 Our mission is to build an immersive virtual learning environment for medical professionals to remember the locations of life saving equipment/medicines in a crash cart.
 
 What is a crash cart?
